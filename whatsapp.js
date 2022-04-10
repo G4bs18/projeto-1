@@ -1,2 +1,2 @@
 const a = "Olá,Mundo!"
-console.log(a)
+conseole.log(a)
